@@ -1,0 +1,21 @@
+{
+    "name": "nocarefree/laravel-ehr",
+    "description": "user group permission",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ncf\\Lehr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nocarefree",
+            "email": "170890803@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2",
+        "illuminate/events": "^9.0",
+        "illuminate/database": "^9.0"
+    }
+}
